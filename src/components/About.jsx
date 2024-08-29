@@ -28,7 +28,10 @@ const About = () => {
          transition= {{duration:1.5 , delay:0.5}}
         className="w-full md:w-1/2 md:p-8 flex items-center justify-center md:justify-center">
           <p className='my-2 max-w-xl py-6 text-center md:text-right'>
-            Hi, this is Hamad. Here is some text about me...
+            Hi, this is Hammad Ahmed. Im computer science graduate and professional full stack developer.
+           I'm a passionate Full Stack Developer with a degree in Computer Science.
+            My expertise lies in creating dynamic and responsive web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) and integrating cutting-edge blockchain technology to solve complex problems. With over a year of hands-on experience, I specialize in building efficient, scalable, and user-friendly applications. My commitment to continuous learning and staying updated with the latest industry trends allows me to deliver high-quality solutions that meet modern web standards. Let's build something amazing together! 
+            
           </p>
         </motion.div>
       </div>
